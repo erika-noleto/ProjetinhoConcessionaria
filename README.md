@@ -65,6 +65,3 @@ A aplicação foi construída utilizando **PHP**, **MySQL** e **Bootstrap**, e e
 
 6. **Execute o sistema no navegador** acessando:
    👉 [http://localhost/concessionaria/index.php](http://localhost/concessionaria/index.php)
-
-
-Se quiser, posso adicionar *badges, imagens, screenshots, diagrama ER*, ou deixar o README no estilo “GitHub profissional” com seções avançadas. Quer que eu adicione mais algum detalhe```
